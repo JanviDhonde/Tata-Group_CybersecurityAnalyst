@@ -1,7 +1,7 @@
 ## Tata Cybersecurity Security Analyst Job Simulation
 
 **Tata-Group_CybersecurityAnalyst:** <br>
-Completed Tata Consultancy Services' Cybersecurity Security Analyst job simulation on Forage. Gained expertise in identity and access management (IAM), cybersecurity best practices, and strategic alignment with business objectives. Developed skills in IAM design, documentation, and communication, strengthening my consulting abilities.
+Completed Tata Consultancy Services' Cybersecurity Security Analyst job simulation on Forage. Gained expertise in identity and access management (IAM), cybersecurity best practices, and strategic alignment with business objectives. Developed skills in IAM design, documentation, and communication, strengthening my consulting abilities..
   
 **Repository Overview:**  
 This repository highlights my experience in Tata Consultancy Services' Cybersecurity Security Analyst job simulation on the Forage platform. The simulation provided me with valuable insights into identity and access management (IAM) within a cybersecurity consulting team. I worked on enhancing IAM strategies, utilizing industry-standard tools, and aligning cybersecurity solutions with business objectives.
